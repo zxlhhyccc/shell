@@ -1,3 +1,5 @@
 # shell
 
-https://github.com/zq/shell.git
+测试回程脚本
+
+wget -qO- git.io/besttrace | bash
